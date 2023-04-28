@@ -1,1 +1,1 @@
-# geoffreylgv.github.io
+# My static web resume app
