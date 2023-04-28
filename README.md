@@ -1,2 +1,1 @@
-# geoffreylogovi.me
-My static resume
+# geoffreylgv.github.io
